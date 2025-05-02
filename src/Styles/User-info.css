@@ -1,0 +1,79 @@
+.user-info {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+  }
+  
+
+.user-info{
+    display: flex;
+    
+} 
+.image img {
+    width: 300px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.login{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+}
+.bio{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    height: 250px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+}
+.followers{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+}
+.repos{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+}
+.Location{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    height: 150px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+}
